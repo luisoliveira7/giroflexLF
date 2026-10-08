@@ -42,8 +42,7 @@ O código foi desenvolvido em C/C++ para Arduino e pode ser executado no Tinkerc
 
 ## 🖼️ Demonstração
 
-![Giroflex de Ambulância](giroflex.gif)
-
+!![Giroflex de Ambulância](giroflex.png)
 ## 🛠️ Ferramenta utilizada
 
 - [Tinkercad](https://www.tinkercad.com/)
